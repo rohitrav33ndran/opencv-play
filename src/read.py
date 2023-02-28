@@ -5,3 +5,4 @@ img = cv.imread('../photos/cat.jpg')
 cv.imshow('Cat', img)
 
 cv.waitKey(0)
+
